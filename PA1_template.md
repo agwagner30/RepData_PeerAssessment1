@@ -18,7 +18,7 @@ library(ggplot2)
 ```
 
 ```r
-data <- read.csv(file = "activity.csv", header = TRUE)
+data <-read.csv(file = "activity.csv", header = TRUE)
 ```
 
 ## What is mean total number of steps taken per day?

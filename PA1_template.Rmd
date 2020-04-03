@@ -11,7 +11,7 @@ output:
 ```{r}
 library(ggplot2)
 
-data <- read.csv(file = "activity.csv", header = TRUE)
+data <-read.csv(file = "activity.csv", header = TRUE)
 
 ```
 
